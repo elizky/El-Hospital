@@ -110,7 +110,9 @@ class Paciente extends Persona {
 
 }
 
-var pacientes = [];
+var pacientes = [{nombre: "nico", apellido: "romero ", dni: "92900290"},
+{nombre: "mati", apellido: "romero ", dni: "92900290"},
+{nombre: "javier", apellido: "romero ", dni: "92900290"}];
 
 
 //Funciones en el HTML
