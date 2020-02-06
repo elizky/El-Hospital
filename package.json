@@ -1,10 +1,11 @@
 {
   "name": "el-hospital",
   "version": "1.0.0",
-  "description": "",
+  "description": "archivomatias",
   "main": "Turnero.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "start2": "nodemon api2.js",
     "start1": "nodemon api1.js"
   },
   "repository": {
